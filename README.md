@@ -1,16 +1,15 @@
-### Hi there 👋
+#### :v: hello! how are you?
 
-<!--
-**tatialveso/tatialveso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm tati and my pronous are she/her and they/them.
 
-Here are some ideas to get you started:
+:sunflower: i'm a front-end developer and mentor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i work with educators teaching teens basic programming and create projects to help people!
+
+:computer: always seeking new ways to learn new thing and improve my skills!
+
+this year i'm focusing on learning javascript
+
+:books: i'm a book, plant and coffee person. i hope soon start writing more about coding and about my experiences!
+
+feel free to get in touch on [twitter](https://twitter.com/tatialveso) and [linkedin](https://linkedin.com/in/tatialveso)!
