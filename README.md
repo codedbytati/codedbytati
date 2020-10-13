@@ -12,4 +12,4 @@ this year i'm focusing on learning javascript
 
 :books: i'm a book, plant and coffee person. i hope soon start writing more about coding and about my experiences!
 
-feel free to get in touch on [twitter](https://twitter.com/tatialveso) and [linkedin](https://linkedin.com/in/tatialveso)!
+feel free to get in touch on [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/tatialveso/)](https://www.twitter.com/tatialveso/) and [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tatialveso/)](https://www.linkedin.com/in/tatialveso/)
