@@ -2,9 +2,9 @@
 
 i'm tati and my pronous are she/her and they/them.
 
-:sunflower: i'm a front-end developer and mentor.
+:sunflower: i'm a front-end developer.
 
-i work with educators teaching teens basic programming and create projects to help people!
+currently i work with mentorship and create projects to learn and help people!
 
 :computer: always seeking new ways to learn new thing and improve my skills!
 
