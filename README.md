@@ -1,6 +1,6 @@
 ### :v: olá! tudo bem?
 
-meu nome é tati e meus pronomes são ela/elu. atualmente, eu atuo como pessoa instrutora de jornada nos bootcamps de desenvolvimento java jr. na [generation br](https://brazil.generation.org/) em trilhas de fullstack e meu foco de interesse é em desenvolvimento front-end.
+meu nome é tati e meus pronomes são ela/elu. atualmente, eu atuo como pessoa instrutora de jornada nos bootcamps de desenvolvimento java jr. na [generation br](https://brazil.generation.org/) em trilhas de fullstack.
 
 :sunflower: estou sempre buscando formas de aprender coisas novas e melhorar minhas habilidades. acredito que uma das melhores coisas do mundo está em compartilhar nossas experiências e nossos conhecimentos com outras pessoas para que todos possamos crescer e criar novas formas de ajudar o mundo.
 
@@ -22,3 +22,4 @@ meu nome é tati e meus pronomes são ela/elu. atualmente, eu atuo como pessoa i
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tatidev/)](https://www.linkedin.com/in/tatidev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tatiialveso@gmail.com)](mailto:tatiialveso@gmail.com)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/tatidev)](https://dev.to/tatidev)
