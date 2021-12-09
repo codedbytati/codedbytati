@@ -4,19 +4,39 @@ meu nome é tati e meus pronomes são ela/elu. atualmente, eu atuo como pessoa i
 
 :sunflower: estou sempre buscando formas de aprender coisas novas e melhorar minhas habilidades. acredito que uma das melhores coisas do mundo está em compartilhar nossas experiências e nossos conhecimentos com outras pessoas para que todos possamos crescer e criar novas formas de ajudar o mundo.
 
-:computer: essas são as tecnologias que eu tenho algum tipo de conhecimento:
-
-![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?&style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?&style=for-the-badge&logo=angular&logoColor=white)
-![styled-component](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+:computer: essas são as tecnologias e ferramentas que eu tenho algum tipo de conhecimento:
+<table>
+  <tr>
+    <th><b>ide</b></th>
+    <th><b>controle de versão</b></th>
+    <th><b>back-end</b></th>
+    <th><b>front-end</b></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/><br>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white"/><br>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white"/><br>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br>
+      <img src="https://img.shields.io/badge/-Bootstrap-563D7C?&style=for-the-badge&logo=bootstrap&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/-Angular-DD0031?&style=for-the-badge&logo=angular&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/><br>
+    </td>
+  </tr>
+</table>
 
 :sparkles: fique à vontade para entrar em contato:
 
