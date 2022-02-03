@@ -1,6 +1,6 @@
 ### :v: olá! tudo bem?
 
-meu nome é tati e meus pronomes são ela/elu. atualmente, eu atuo como pessoa instrutora de jornada nos bootcamps de desenvolvimento java jr. na [generation br](https://brazil.generation.org/) em trilhas de fullstack.
+meu nome é tati e meus pronomes são ela/elu. atualmente, atuo como pessoa instrutora em cursos de desenvolvimento full stack ajudando pessoas a ingressarem no mercado de trabalho na área da tecnologia.
 
 :sunflower: estou sempre buscando formas de aprender coisas novas e melhorar minhas habilidades. acredito que uma das melhores coisas do mundo está em compartilhar nossas experiências e nossos conhecimentos com outras pessoas para que todos possamos crescer e criar novas formas de ajudar o mundo.
 
