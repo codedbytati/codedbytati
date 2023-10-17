@@ -1,8 +1,8 @@
 ### :v: olá! tudo bem?
 
-meu nome é tati e meus pronomes são ela/elu. atuo no área de educação de tecnologia e estudo novas formas de disseminar o conhecimento de tecnologia às novas pessoas interessadas em ingressar neste mercado de trabalho.
+atuo na área de educação em tecnologia há 03 anos, focado em capacitar pessoas que querem ingressar no mercado da tecnologia.
 
-:sunflower: estou sempre buscando formas de aprender coisas novas e melhorar minhas habilidades. acredito que uma das melhores coisas do mundo está em compartilhar nossas experiências e nossos conhecimentos com outras pessoas para que todos possamos crescer e criar novas formas de ajudar o mundo.
+:sunflower: acredito que uma das melhores coisas do mundo está em compartilhar nossas experiências e nossos conhecimentos com outras pessoas para que todos possamos crescer e criar novas formas de ajudar o mundo.
 
 :computer: essas são as tecnologias e ferramentas que eu tenho algum tipo de conhecimento:
 
@@ -26,9 +26,7 @@ meu nome é tati e meus pronomes são ela/elu. atuo no área de educação de te
 ![icon](https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white)
 ![icon](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-![tati's github stats](https://github-readme-stats.vercel.app/api?username=tatialveso&count_private=true&show_icons=true&theme=calm)
-
 :sparkles: fique à vontade para entrar em contato:
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tatidev/)](https://www.linkedin.com/in/tatialveso/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tatialveso/)](https://www.linkedin.com/in/tatialveso/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tatiialveso@gmail.com)](mailto:tatiialveso@gmail.com)
