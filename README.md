@@ -1,3 +1,5 @@
+<img align="right" src="./side-image.png" />
+
 ### :v: < hello world />
 
 🔮 i'm a front-end developer with a passion in education
