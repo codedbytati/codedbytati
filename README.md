@@ -2,13 +2,15 @@
 
 ### :v: < hello world />
 
-🔮 i'm a front-end developer with a passion in education
+🔮 i'm a front-end developer passionate with sharing my studies and discoveries
 
 🧑‍💻 my knowledge is focused on the javascript universe
 
-💛 i have 3 years experience in web development teaching
+💛 right now i work as a junior front-end developer focusing in react
 
-📔 currently i'm expanding my javascript tech knowledge
+🖥️ besides react and javascript, i already dealt with MERN stack, mySQL and angular
+
+📔 i'm always eager to learn more about react and a11y
 
 <br>
 
