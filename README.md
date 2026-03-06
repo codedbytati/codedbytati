@@ -2,15 +2,15 @@
 
 ### :v: < hello world />
 
-🔮 i'm a front-end developer passionate with sharing my studies and discoveries
+🔮 i'm a front-end developer passionate with sharing my point of view and knowledge about technology
 
 🧑‍💻 my knowledge is focused on the javascript universe
 
-💛 right now i work as a junior front-end developer focusing in react
+💛 right now i work as a mid-level front-end developer focusing in react and typescript
 
-🖥️ besides react and javascript, i already dealt with MERN stack, mySQL and angular
+🖥️ i'm currently studying frontend engineering at FIAP
 
-📔 i'm always eager to learn more about react and a11y
+📔 i'm also specializing on a11y, because i believe applications should be functional and pretty for everybody
 
 <br>
 
